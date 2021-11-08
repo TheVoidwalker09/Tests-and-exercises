@@ -1,0 +1,47 @@
+* {
+  font-family: "Press Start 2P", arial, sans-serif;
+}
+
+body {
+  background-color: #011f3f;
+}
+
+#container {
+  align-items: center;
+  text-align: center;
+}
+
+#title {
+  margin: 70px 0;
+}
+
+.game {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.game-button {
+  width: 200px;
+  height: 200px;
+  border: black solid 10px;
+  border-radius: 25%;
+  margin: 25px;
+  cursor: pointer;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
